@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Dr. Jacques vindication, against Master Kirkwoods defamation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01389</idno>
+            <idno type="STC">Wing A3357A</idno>
+            <idno type="STC">ESTC R172339</idno>
+            <idno type="EEBO-CITATION">51784356</idno>
+            <idno type="OCLC">ocm 51784356</idno>
+            <idno type="VID">174783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174783)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2697:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Dr. Jacques vindication, against Master Kirkwoods defamation</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Imperfect: tight binding with some loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirkwood, James fl. 1675-1711. --  Mr. Kirkwood's plea before the kirk and cival judicatures of Scotland.</term>
+               <term>Jacque, W. --  Dr., fl. 1698. --  Dr. Jacque's vindication against Master Kirkwoods defamantion.</term>
+               <term>Bigamy --  Scotland --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174783:1"/>
+            <pb facs="tcp:174783:1" rendition="simple:additions"/>
+            <head>An ANSWER, To Dr. <hi>Jaques</hi> Vindication, AGAINST Maſter <hi>KIRKWOODS</hi> Defamation.</head>
+            <p>WERE it not on the Conſideration, that this moſt Invective, Falſe, and lying Paper has gone through the hands of ma<g ref="char:EOLhyphen"/>ny Hundreds of People, who, 'tis like, never once ſaw, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> read the account given by Mr. <hi>Kirkwood</hi> of his Plea with the Kirk-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion, and Presbitry of <hi>Kelſo,</hi> it might be thought altogether need<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs to make any Anſwer thereto; For in effect, 'tis ſo far from being <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Vindication of the alledged Defamation, that it is not only a down<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght Confirmation, but a clear Commentary on, and an Enlarge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent of the whole affair.</p>
+            <p>Know therefore, that all Mr. <hi>Kirkwood</hi> ſayes, (<hi>Page:</hi> 38) upon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is head is, that Mr. <hi>Jaque</hi> did let go one <hi>Miſtreſs <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Stone,</hi> an <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngliſh</hi> Woman, who brought forth a child in his Houſe, and that, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the common report went, to his own Son, without bringing her <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore any Judicature, Eccleſiaſtical, or Civil.</p>
+            <p>Now all this, and much more the Dr. confeſſes, giving, as he ſayes Faithful and plain account of the whole affair; The ſumm where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is, that this Mrs. <hi>Stone,</hi> a rich Merchants Daughter in <hi>London,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing acquaint with on <hi>Vanderkiſtee</hi> a <hi>Dutch-man,</hi> is married to him <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>thout her Parents Knowledge; Which thing ſhe letting fall to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and his Wife, who was her near Kinſ-woman, they contrary to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inclination, inform her Parents. After inquiry made by them out <hi>Vanderkiſtee</hi>'s Circumſtances, 'twas found he Cohabited with other Woman, who was reputed his Wife, and by whom he had <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eral Children then Living. Whereupon the Parents reſolves to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſue for a Divorce. In the mean time the Dr. is advis'd by them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> carry away their Daughter to his Houſe in <hi>York-ſhire,</hi> which ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdingly was done: tho very much againſt her inclination. And
+<pb n="2" facs="tcp:174783:2"/>beſides it was alſo their deſire (ſayes the Dr.) that ſhe ſhould ſtill go under the name of a Maid, in order to conceal the Marriage. After ſome abode in <hi>York-ſhire,</hi> he brings her and his Wife into <hi>Scot<g ref="char:EOLhyphen"/>land</hi> to his Fathers Houſe at <hi>Biggar;</hi> Where ſhe liv'd about three Moneths, as a chaſte Virgin, None all this time (except the Dr. and his Wife) knowing ſhe was with Child, till the very Minute her pains of Child-Birth came upon her. The Dr. being at <hi>Lanerick,</hi> a<g ref="char:EOLhyphen"/>bout 7 Miles diſtant, is alarm'd with the ſudden news; For 'twas expected the Damſel had ſix weeks longer to go. Home he flees to his Fathers Houſe, to Apologize for concealing the ſecreet ſo long: But his Father (he ſayes) was ſo incenſ'd, both againſt him and Mrs. <hi>Stone,</hi> that he would neither hear, nor believe what they ſaid; Tho ſhe produc'd a Certificate from the Miniſter that Married her.</p>
+            <p>Now further know, that the Drs. Wife died ſome days only before this fell out; So that immediately the report run through the Coun<g ref="char:EOLhyphen"/>try, that the young Gentle-woman, whom all took to be a Virgin; had brought forth a Child to Mr. <hi>Jaques</hi> Son, and that not without ſtrong Preſumption, his Wife was haſtened a little too, early off the ſtage of this Life. In the mean time Mr. <hi>Jaque</hi> fretted, and was ex<g ref="char:EOLhyphen"/>ceeding Impatient, till he got the ſick Woman turn'd out of Doors: <hi>She was no ſooner able to ſtir about</hi> (ſayes the Vind.) <hi>but he requir'd her to be gone.</hi>
+            </p>
+            <p>Now, Pray, tell, wherein Mr. <hi>Kirkwood</hi> faild in his Relation of this affair. Certainly, if in any thing, 'twas, that he comes ſhort in telling all the Truth. Many things he omits, which might, and ought to be told: Others he qualifies and minces by repreſenting them in milder terms, than the matter requires. Mr. <hi>Jaque</hi> (ſayes he) <hi>Let that Woman go,</hi> &amp;c. <hi>He requir'd her to be gone,</hi> ſayes the Vind.</p>
+            <p>This is a ſtrange buſineſs, if ſounded to the Bottom. The Dr. confeſſes he was extreamly faulty, and inconſiderate; Guilty of an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Egregious Act of Imprudence and Folly. An Act! A wonderfull Act <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> An Act with ſo long a train, that no Eye under Heaven can reach its End. 'Tis a continued <hi>Series,</hi> or Concatenation of a Thouſand Acts; And all theſe perfect lyes, In a word, 'tis a meer <hi>ſham;</hi> a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:174783:2" rendition="simple:additions"/>down right <hi>Impoſture.</hi> The beginning is told us; But where it was to end, GOD alone knows. It was hatch'd at <hi>London,</hi> From thence carried to <hi>York-ſhire,</hi> where it abode for ſometime; Then came into <hi>Scotland,</hi> and ſettl'd at <hi>Biggar,</hi> in the worſt place on Earth; In a place, where it was capable to do moſt Hurt.</p>
+            <p>Me-thinks I ſee the Dr. with this young Virgin laughing very heartily together, while alone in a Chamber, conſidering how not<g ref="char:EOLhyphen"/>ably they cheated all the World, and Eſpecially the Honeſt, Old, Reverend Couple, the Father and Mother. And yet this laughter could not but end with great Anxiety of mind, how to carry when matters came to a Pinch.</p>
+            <p>Pray, might one ſay, Think you the Dr. had a mind to unfold this ſe<g ref="char:EOLhyphen"/>cret to his Parents, ſometime before the Maids bringing forth the Child. It ſeems, No, for certainly the ſooner the better. And, ſince he did it not any time of the ſix Weeks before his Wife fell ſick; Nor in the eleven days of her ſickneſs, nor after her Death; 'Tis highly probable he had no thought to do it at all. It would ſeem ſo indeed, but I muſt ſtill aſk what they reſolv'd to do, when things came to extremity. He and ſhe had ſix Weeks, you know, to adviſe about that; For according to her Reckoning, layes the Vind. ſhe had ſo much longer to go. No queſtion they had de<g ref="char:EOLhyphen"/>termin'd already what to do. But I'm ſtill in the miſt; and therefore you'l excuſe me; if I repeat my queſtion by asking what courſe, or Method you think, they wou'd have taken, if GOD had not prevented their deſign. That's a Riddle, which I believe <hi>OEdipus</hi> himſelf could not unfold to you: But if I may give you my Conjecture, I'm apt to ſancy, the Dr. had a mind to carry her to ſome ſecrect Corner, where ſhe might be eaſ'd of her Burden. A Doctor you know, can in a ſtrait, act the Mid-wife pretty well. But, Pray, tell me, what they would have done with the innocent little Babe. GOD knows: All, I can ſay, is, if it chanc'd to be dead Born, any little hole was ſufficient to ſhut it in. It was but ſ curious Brat, begotten, as the Dr. conceives in Adultery, what matter where it lye. And if it hap<g ref="char:EOLhyphen"/>pened to be Born alive, many means, you know, are us'd to convey ſuch poor <hi>Animals</hi> out of the way. And what next think you, wou'd the Dr. have done. He might then with great freedom return back to his Fathers Houſe with this young Lady, and there get her Married to ſome Perſon of Honour, or rather take her to himſelf? For no queſtion her Father (as the Dr. ſayes) being an Eminent and Opulent Merchant in <hi>London,</hi> wou'd
+<pb n="4" facs="tcp:174783:3"/>not ſtand to give with his only Daughter, a very conſiderable Portion, Eſ<g ref="char:EOLhyphen"/>pecially to the Doctor, who had done him and her ſuch Extraordinary <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Service.</p>
+            <p>This iſ duely Conſidered, will be found a buſineſs of a moſt horrid Nature: <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by this means the Doctor, or any other Perſon, who ſhould marry this Woman, wou'd live and dye guilty of Adultery: So that at leaſt, he is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>Part,</hi> as we ſay, of that abominable iniquitie, he confeſſes in his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind. (we need not cite the Page, there being but 7 in all) that with much difficulty he got this Woman perſwaded to forſake her Husband, and go with him to <hi>York ſhire.</hi> He forc'd her to Perjure her ſelf; and to break that Tie, which God and Nature had made. He forc'd her by his Rhetorick. Curſ'd is that Rhetorick, which perſwadeth to do wickedneſs.</p>
+            <p>For this he ſeems to make an Apology, ſaying, he had promiſ'd to her Parents to do ſo and ſo. Ah! He promiſ'd to do wickedneſs, and muſt he perform it? Surely the Doctor, who is alſo a Divine, having once enter'd into that Sacred Function, will teach no ſuch Doctrine. Nor had the Pa<g ref="char:EOLhyphen"/>rents ſuch power over their Daughter, being now Married, as to force her to leave her Husband, and to go away with another man into a forraign Kingdom.</p>
+            <p>He further Apologizes thus: <hi>It was found,</hi> ſayes he, <hi>that Vanderkiſtee Cohabited with another Woman, who was reputed his Wife, and by whom he had ſe<g ref="char:EOLhyphen"/>veral Children then Living; and therefore Mr. Stone reſolv'd to purſue for a Divoree. Vanderkiſtee Cohabited with another Woman, &amp;c.</hi> Pray, where, Doctor? In <hi>Holland,</hi> or <hi>London?</hi> You are ſilent in this, as in many other very neceſſary Points. 'Tis more than Probable, 'twas not in <hi>London;</hi> For it can hardly be well ſuppol'd, that a man, eſpecially one of ſo publick Imploy, as they ſay he is, <hi>Viz.</hi> a <hi>Mountebank,</hi> who Cohabites with a Woman, that's reputed his Wife, and by whom he has ſeveral Children living, will be ſo mad, as to marry another Woman in that ſame City, it being a Capital Crime ſo to do. 'Tis therefore more likely 'twas done in <hi>Holland</hi> his Native Country.</p>
+            <p>The Doctor it ſeems has a great Veneration for common Fame tho at a good diſtance, even beyond Seas in a forraign Nation; and yet Condemns others fortaking notice of ſuch matters done at their very door. He carries away a mans Wife againſt her will, becauſe it wastalk'd that her Hus<g ref="char:EOLhyphen"/>band had Cohabited with another Woman; as his Wife in a ſtrange Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>He adds, <hi>that Mr. Stone reſolv'd to uſe his outmoſt Efforts to get-a-Divorce for his Daughter.</hi> Pray, Doctor, has he yet got it? Yea, tell me, if he did ever Commence the Plea? 'Tis ſtrange, if he reſolv'd to uſe his out moſt
+<pb n="5" facs="tcp:174783:3"/>Efforts, as you ſpeak, and yet to this hour, now after many years, has not ſo much as begun the work. It wou'd ſeem you have found out a much bet<g ref="char:EOLunhyphen"/>ter way, to ſeparate man and Wife, than by a long and expenſive Purſuit in Law. One thing here, Doctor is pretty aſtoniſhing, you will not ſurely deny, but the Wifes preſence is abſolutly neceſſary at the obtaining a Di<g ref="char:EOLhyphen"/>vorce; And yet in the mean time that this is to be had, you carry her out of the way into another Kingdom. Doctor, Doctor; Your tale tells very ill. You'll have hard work to reconcile one thing with another. And be<g ref="char:EOLhyphen"/>ſides, by this your carriage, you ſhew your ſelf to be above Law; For you will not wait, till matters be decided by a Judge, and that in a buſineſs, where<g ref="char:EOLhyphen"/>in you are little, or nothing concern'd.</p>
+            <p>A third Apology, is the Doctors acknowledging his Fault. He confeſſes that he was <hi>Extreamly faulty and inconſiderate in the matter; guilty of an Egregious Act of Imprudence and Folly in not making the thing known to his Parents before the Womans delivery.</hi> He adds, <hi>that be is ſo far from. Extenating his Crime, that he is willing to Agravate it againſt himſelf.</hi>
+            </p>
+            <p>May it nor ſeem very ſtrange to ſee a man, who is guilty of ſeveral faults, ſome of leſs, ſome of more heinous a Nature, only troubl'd for a leſſer fault, but not touch'd with the ſenſe of the more horrid Crimes. There's too juſt ground to ſuſpect the ſincerity of ſuch a mans Repentance, even for the leſſer fault. This truely is the Doctors caſe. He ſeems ſorrowfull for what he has done in this Affair Relating to his Parents, which is but a ſmall fault, when compar'd with the great injury done <hi>Vanderkiſtre.</hi> Where's his ſorrow for that? Not one Syllable here relating thereto. Hence the Doctors Repentance is but in part, and by far the more inconſiderable. And beſides, we have too great reaſon to think, that even this ſorrow the Doctor ſeems to have, is at beſt but forc'd; For, if Providence had not prevented him, he had run on; God knows, how far.</p>
+            <p>There's one thing here following, which by far is the moſt aſtoniſhing of <hi>any</hi> in this whole Paper; And gives the greateſt Offence to all, that hear the ſame. <hi>The Doctor,</hi> ſaves the Vind. <hi>has ever ſince ſuffer'd, as a puniſhment, his Fathers diſpleaſure, and has been an Exile both from his Favour and preſence.</hi> Now, think you it not a very ſtrange thing, if the ſons Crime be, as is here Repre<g ref="char:EOLhyphen"/>ſented and he ſo penitent for it, and moſt willing to fall down on his knees to beg his Fathers pardon; Is it not, we ſay, a very ſtrange and Unnatural thing, that the Father, now after many Years will not ſuffer his ſon to come into his preſence, and that tho much pains has been taken by ſeveral Perſons, to Reconcile Father and Son; but all in vain. And certainly never any in the World had more, and ſtronger motives, preſſing them to be reconcil'd, than <hi>Mr. Jaque</hi> has.</p>
+            <pb n="6" facs="tcp:174783:4"/>
+            <p>To paſs that he is a Miniſter of the Goſpel, and a man of no ſmall Natural parts, and one well advanc'd in Years, being above 70 and not only very tend<g ref="char:EOLhyphen"/>er and ſickly; But is, and has been theſe 7 or 8 Moneths before the publiſhing of his ſons paper, ſo exceedingly oppreſt with ſeveral painfull Diſeaſes (<hi>Gout</hi> and <hi>Gravel, &amp;c.</hi>) that many alledge he can hardly well recover. To paſs, we ſay theſe verie weightie Motives to induce the Father to be reconciled with his ſon, further know, that he is his only Child alive, and being a Profeſſor of Medicine is thereby in a Capacity to be very ſerviceable to him in his pre<g ref="char:EOLhyphen"/>lent Circumſtances. And is it not a cruel and Unnatural thing in a Father ab<g ref="char:EOLhyphen"/>ſolutlie to refuſe to admit his only Child into his preſence; and eſpecially now when he is very like to go off the ſtage of this World, and ſtep into E<g ref="char:EOLhyphen"/>ternity? Now, I ſay, when he ought to call for him; And give him his beſt advice, and his bleſſing before he die. What is this, but as't were to Curſe his ſon in ſtead of Bleſſing him? Good <hi>Jacoh</hi> did not treat his Sons <hi>Reuben, Simeon</hi> and <hi>Levi</hi> after this manner; Tho the firſt was guilty of Inceſt, <hi>Gen:</hi> 35 22. The other two of many cruel Murders, 34.25. Yet this holy man did not baniſh theſe his Sons out of his Family, And at his Death bleſſed them, 40.28. There's one Conſideration, which highly Aggravates Mr. <hi>Jaques</hi> (a riage, <hi>Viz.</hi> That his ſon goes frequently to his houſe (they both living in <hi>Kelſo</hi>) but is never admitted into the ſame Room with his dying Father: For know that Mr. <hi>Jaque</hi> in time of his ſickneſs being in an upper Chamber, and his Wife in one below, neither of them for ſeveral Moneths were able to go the one to the other; For ſhe is no leſs infirm than he; So that the ſon has fre<g ref="char:EOLhyphen"/>quent acceſs to his Mother; But never ſuffer'd to go in to his Father.</p>
+            <p>Another very preſſing Motive is, That this unnatural carriage of the Father does much confirm the Report, that went of his Son at <hi>Biggar.</hi>
+            </p>
+            <p>The chief Reaſon, why he ought to be reconcil'd, is the great Scandal his Carriage gives to many thouſands of People. And that which exceedingly aggravats this Point, is, That of late he preach'd near a whole Year twice a day upon that Verſe of St. <hi>Luke</hi> 15.24. about the Prodigal. And does it not, think you, give ground of Of<g ref="char:EOLhyphen"/>fence ſo palpably to teach others one thing, and practiſe the contrary himſelf.</p>
+            <p>We muſt not here omit to do Mr. <hi>Jaque</hi> all the Juſtice that's due him, tho perhaps it will not a little empair his Son's Credit; Nor likely much advance his own Praiſe. In ſhort therefore know, that,
+<pb n="7" facs="tcp:174783:4"/>when ſome Perſons of good Note were diſcourſing with him about his ſevere Carriage towards his Son, he told them, 'twas not ſo much for that buſineſs, which fell out at <hi>Biggar,</hi> as for a matter of great<g ref="char:EOLhyphen"/>er Conſequence, which he would communicat to no perſon ſave one, and that he had done already.</p>
+            <p>How here to reconcile the Father's Words with theſe of his Son above-mentioned, we can't ſee, the one ſaying their difference is on the account of that buſineſs at <hi>Biggar,</hi> the other for a matter of greater conſequence.</p>
+            <p>We now come to the grand Apology made uſe of by the Doctor, the Summ whereof amounts to this; viz: <hi>I'm not,</hi> ſayes he, <hi>the Fa<g ref="char:EOLhyphen"/>ther of that Child brought forth by Mrs.</hi> Stone <hi>at</hi> Biggar, <hi>becauſe ſhe is married to one</hi> Vanderkiſtee <hi>a</hi> Dutch <hi>Man.</hi>
+            </p>
+            <p>That ſhe is Married, he proves thus. <hi>1mo.</hi> She produc'd a Certi<g ref="char:EOLhyphen"/>ficat to Mr. <hi>Jaque,</hi> from the Miniſter that married her. <hi>2do.</hi> Her Father wrote from <hi>London</hi> to Mr. <hi>Jaque,</hi> that ſhe was married to <hi>Van<g ref="char:EOLhyphen"/>derkiſtee. 3tio.</hi> Mr. <hi>Burroughs,</hi> Son in Law to Mr. <hi>Jaque</hi> wrote alſo to him from <hi>London,</hi> that he hear'd out of <hi>Vanderkiſtee</hi>'s own Mouth, that he was Lawfully Married to her, and had bedded with her.</p>
+            <p>To paſs here, that ſingle Letters about Matters of this kind from remote places, are often found meer Cheats and Lies, eſpecially coming from perſons ſo much Intereſſed; We ſay, that Mr. <hi>Jaque</hi> ought not to ſit Judge in ſuch a Cauſe relating to his Son: He was not to determine, whether theſe Letters were ſufficient Evidences of the matter under debate, or not.</p>
+            <p>But let us grant all that's crav'd, and ſuppoſe, that Mrs. <hi>Stone,</hi> is Lawful<g ref="char:EOLhyphen"/>ly married to <hi>Vanderkiſtee, &amp;c.</hi> It will not hence follow, that the Dr. is free, as he pretends, of any Crime, except that Act of Imprudence and Folly, (as he calls it) in not making known to his Parents, Mrs. <hi>Stone</hi>'s Circum, ſtances before her delivery. That's indeed an inſtance of great Folly; Yet no real injury is thereby done to any perſon, only a great offence given to all that hear thereof. But beſides this Scandal, there is horrid iniquity and injuſtice committed in this matter, And that, which highly aggravates the Crime, is, that the injury is irrepairable. Pray, good Dr. (to paſs that 'tis a moſt Heinous Crime, to perſwade a young Damſel to perjure her ſelf)
+<pb n="8" facs="tcp:174783:5" rendition="simple:additions"/>In ſober earneſt let me aſk, if you think it not a very great Act of injuſtice, to carry away a Mans Wite ſome few days after Marriage, into a Forraign Nation, to a place 3 or 400 Miles diſtant. If you take away a Mans Horſs, or Purſs, he may get you hang'd for your pains, tho you offer to repair the Damnage. What muſt it then be to take away a Mans Wife, being that which is deareſt and neareſt to him of any thing in this World; And the loſs altogether irrepairable. Be ingenuous, I ſay: Would you contented<g ref="char:EOLhyphen"/>ly have ſuffer'd this of another Perſon. Suppoſe <hi>Vanderkiſtee</hi> had entic'd your Wife three or four days after Marriage, to go with him to a Forraign Kingdom, and kept her there till ſhe brought forth her firſt Born; Pray, good Dr. tell me freely, what thoughts you wou'd have had of him in ſuch ſtrange Circumſtances. What wou'd you have ſaid to him, if he had been caſt in your way; Or rather, what wou'd you have done to him, if you'd had ſuch an opportunitie, as you could wiſh. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urclie You'l ſay (if you have but one dram of ingenuity) that cudgelling in the ſevereſt manner imaginable, is too too ſlender a puniſhment for ſo Heinous a Crime, Yea, that tho you purſued him to death by the Hand of Juſtice, he wou'd get but what he deſerv'd.</p>
+            <p>I know very well, Dr. you'l tell me; That I'm ſuppoſing all alongs that which is not; That I ſpeak, as if you had been too too familiar with Madam <hi>Vanderkiſtee;</hi> Whereas you never once had a thought tending that way. Doctor, I muſt freely tell you, that what you ſay, is no leſs abſurd. and Ridiculous, than if you ſhould carry away your Neighbours Mare 3 or 4 Miles, and when you are challeng'd, to tell him, you never once laid your Leg over her, Beſides Dr. what if he in the <hi>Interim,</hi> having uſe of his Mare broake into ſome Bodies Park, and there took the Readieſt? Certainly you are a Sharer in his Wickedneſs, and if one of you muſt hang, far rather you, than he. You pretend. you are altogether Innocent as to this particular, and will have the World to believe 'tis ſo and that upon your ſimple word, in oppoſition to the ſtrongeſt preſumptions almoſt can be. Doctor, We have a good old <hi>Scots Proverb,</hi> very applicable to your Caſe.</p>
+            <q>
+               <l>If you do no Ill, do not Ill-like;</l>
+               <l>If you ſteal not my Kail, break not my Dyke.</l>
+            </q>
+            <p>I dare not, nor will I ſay, you are ſurely guilty as to this Point; Yet I muſt be ſo free, as to tell you plainly that, which ten thouſand
+<pb n="9" facs="tcp:174783:5"/>think, <hi>Viz.</hi> They ſee not wherein they tranſgreſs the Bounds of Chiſtian Charity, thô they have thoughts quite differing from what you pretend to in this Matter. They ſee you but a Man, and that a Young Man, made up of Fleſh and Blood like themſelves. They find alſo the Gentle-woman forward enough that way, elſe ſhe had not behav'd, as ſhe has done without her Parents Conſent: And hav<g ref="char:EOLhyphen"/>ing once, you know, travelled that Road, ſhe would with the great<g ref="char:EOLhyphen"/>er freedom go it over again.</p>
+            <p>I need not tell you, Doctor, what a mighty Temptation Oppor<g ref="char:EOLhyphen"/>tunity is; And this you had in an eminent manner a thouſand times. Beſides, 'tis ſafe Fiſhing, as we ſay, in drumly waters. There was no fear, ſuch underhand dealling ſhould appear above Board.</p>
+            <p>Nor will it ſatisfie a conſidering perſon to ſay, you had Work e<g ref="char:EOLhyphen"/>nough to do at home. Alas, ſee we not too too many going abroad, when it were fitter, they ſhould be employed within their own doors.</p>
+            <p>But I know <hi>Topical</hi> Arguments are of no Force with thoſe, who think their bare word ſhould paſs for a <hi>Demonſtration,</hi> which is all the Doctor can pretend to in this, and many other Points of his Paper.</p>
+            <p>We ſhall leave off to ſtart any more Queſtions, thô hundreds all a<g ref="char:EOLhyphen"/>longs this Paper offer themſelves very appoſitely to our Conſiderati<g ref="char:EOLhyphen"/>on, and come to ſome other Things of greater Moment, at leaſt more pertinent to our preſent purpoſe.</p>
+            <p>And firſt, We appeal to any indifferent, and unbyaſſed Perſon, that will ſeriouſly conſider this whole Affair, with all its various Cir<g ref="char:EOLhyphen"/>cumſtances, whether or not Mr. <hi>Jaque</hi> acted like himſelf in requir<g ref="char:EOLhyphen"/>ing that Woman to be gone, who in ſuch a Surprize brought forth a Child in his own Houſe to his own Son, as the common report went? Was it not, we ſay, his Duty, as a Chriſtian, much more as a Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel in that place, and Father to the Perſon ſo calum<g ref="char:EOLhyphen"/>niated by common Fame, as is pretended, to have vindicated him in a legal manner from theſe horrid Aſperſions, that went up and down the whole Country of him. And if it was his Duty ſo to do, no per<g ref="char:EOLhyphen"/>ſon ought to blame Mr. <hi>Kirkwood</hi> for what he ſayes in his Book re<g ref="char:EOLhyphen"/>lating to this Affair.</p>
+            <pb n="10" facs="tcp:174783:6"/>
+            <p>As to other things in this Paper, 'tis needleſs to be at much pains to give them any return, moſt of them being altogether impertinent, others in ſo general and ambiguous term: that the beſt Anſwer is a flat Denyal; Some not only groſs Falſhoods, but manifeſt Lies; And in not a few one may very well grant the Premiſſes, and yet deny the <hi>Inference:</hi> We need not travel far into it to find out Inſtances. Lo, one in its very Front. The words are, <hi>The like of Mr.</hi> K<hi>'s. Pamph<g ref="char:EOLhyphen"/>let, all things being conſidered, was never writen in any Language by any Perſwaſion, being both Prophane, Blaſphemous, and Obſcene.</hi> We may ſafely grant you, that never before this time ſuch a Book was writen; Becauſe never any perſon had ſuch an Occaſion, or ſuch a Subject to write on: Never, we ſay, was ſuch a Judicature on Earth, and acted ſuch things, as that, which ſat at <hi>Kelſo</hi> 24. <hi>September</hi> 1695. Of which at large from the 8. <hi>Sect.</hi> to the 22, <hi>Part</hi> 3.</p>
+            <p>We ſhall alſo confeſs, that there are ſome Words in Mr. <hi>Kirkwood</hi>'s Book, which may give Offence to a Modeſt Ear, and therefore may be called Prophane, or Obſcene, (for both theſe words may paſs here, as one, thô the Doctor makes a difference by interpoſing a third, and that without any ground) Yet we poſitively aſſert, that Mr. <hi>Jaque</hi> and his Elders are juſtly blameable upon that head, and not Mr. <hi>Kirkwood.</hi> They moſt falſly inſerted theſe words into his Libel, and have recorded them in all the Regiſters of the Kirk of <hi>Scotland,</hi> and publiſh'd them by Word and Write, far and wide, through the Kingdom to diſgrace him; And may not he repeat their Words for his own Vindication?</p>
+            <p>And further know, that it were very eaſie, were we not haſtening to a cloſe, to ſhew you from this Paper a vaſt number of abominable Lies: But we ſhall content our ſelves with this one, which may well paſs muſter for all the reſt. The Doctor's words are, <hi>The Honourable, Pious, and Learn'd Nobility and Gentry of this Ancient Kingdom, who favour the Church Judicatures with their preſence and aſſiſtance as Ruling Elders, are not exempted from Mr.</hi> K<hi>'s. ſevere and falſe Cenſures of Par<g ref="char:EOLhyphen"/>tiality, Injuſtice, Envy, Malice, Ignorance and Falſhood.</hi>
+            </p>
+            <p>Now know, that the very contrary is again and again repeated in
+<pb n="11" facs="tcp:174783:6" rendition="simple:additions"/>his Book; And that not tranſciently, or by the by; But brought in as 't<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re with an OES in expreſs Terms, prefixing to it a Title, viz. <hi>A neceſſary Caution,</hi> Page 79. <hi>Pray,</hi> ſayes Mr. Kirkwood, <hi>do not miſ<g ref="char:EOLhyphen"/>take us, as if we were charging ALL the Members of the Syond as guilty of the above-mentioned Crimes, No, No: We are far from that. ALL the Worthie Gentle men, Sir</hi> John Home, <hi>Sir</hi> John Pringle, <hi>and others, with a good Number of the People, did what lay in their power to ſtop the Carrier of the furious multitude, but were not able; Eſpecially, when it came to a Vote, where a</hi> Dunce <hi>can do as much as much as a</hi> Solomon. And page 128. are theſe words; <hi>As to the many Honourable and Wor<g ref="char:EOLhyphen"/>thy Gentlemen, the Ruling Elders, Mr.</hi> Kirkwood <hi>here declares them al<g ref="char:EOLhyphen"/>together Innocent, and free of having any hand in the Sentence paſt againſt him.</hi>
+            </p>
+            <p>Yea, how frequently in his Book does he lament and bemoan his ſad misfortune, that Gentlemen ſat not his Judges, page 49. <hi>We muſt not here omit</hi> (ſayes he) <hi>to tell you, that we are far from aſcribing theſe wild and exorbitant Actings to every Member of the Committee. No, No, Not to the half of them. Theſe Worthie Gentle-men above nam'd, would certalnly have abhor'd to ſit amongſt the Actors of ſuch groſs Enormities. Alas! alas!</hi> (he adds) <hi>It has been Mr.</hi> Kirkwood's <hi>great Misfortune, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Gentle-men kept not Diets: Many never came, and ſome very ſeldom.</hi>
+            </p>
+            <p>Now, good Reader, do you not think the Doctor has been be<g ref="char:EOLhyphen"/>witch'd; At leaſt hudgely demented and blinded with the Paſſions of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xceſſive Malice, Envy, Revenge, and ſuch like Prejudices, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave inſtigated him to write againſt the very Light of the Sun at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oon-tide? By this one Inſtance you may conjecture, what kind of Paper the Doctors is, if duely compar'd with Mr. <hi>Kirkwood</hi>'s Book.</p>
+            <p>To conclude; Theſe moſt ſcurrilous, affected, and bombaſt words, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herewith the Doctor's Paper is, as 'twere cram'd, viz. <hi>The Crazie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaded Pamphleter; The Vacuum of his Cholerick Brain; He has the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ickets in his Underſtanding,</hi> &amp;c. deſerves no Anſwer, except to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught at, or retorted upon himſelf with far greater Reaſon, than he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a moſt malicious manner would throw them upon another. Such <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords may perhaps amuſe the Vulgar Reader, whoſe capacity ſel<g ref="char:EOLhyphen"/>dom
+<pb n="12" facs="tcp:174783:7" rendition="simple:additions"/>reaches further, than the out-ſide of things; But Men of Un<g ref="char:EOLhyphen"/>derſtanding, who can diſcern the true Uſe and Importance of words, will laugh at ſuch ſilly, empty, and frivolous <hi>Notions</hi> and <hi>Chimera's</hi> of a Pedantick Mountebank, and not the grave Expreſſions of a Learn<g ref="char:EOLhyphen"/>ed and Skilful Profeſſor of Medicine: For in effect, whoſoever ſhall narrowly conſider this whole Affair, will palpably ſee that the Doctors Intellectuals are mighty ſhallow, if we may judge of the Tree by its Fruit: So that upon juſt Ground it may be ſaid, that he not olny has the Rickets in his diſtorted and decrepit body in a very eminent man<g ref="char:EOLhyphen"/>ner; But that they are flown up into his empty brain, and there have begot ſuch a ſtrange <hi>Vertigo</hi> or Giddineſs in his Noddle, that it made him run round two Kingdoms with another Man's Wife hanging by his tail, giving out to all perſons whetherſoever he went, that ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was a Chaſte and Pure Virgin.</p>
+            <p>The Doctor concludes with this old Saying, <hi>Quos Deus vult perde<g ref="char:EOLhyphen"/>re, prius dementat,</hi> applying it to Mr. <hi>Kirkwood:</hi> But with his leave he may upon better Ground take it to himſelf; ſince he openly ac<g ref="char:EOLhyphen"/>knowledges, that he is guilty of the height of Imprudence and Folly<g ref="char:punc">▪</g> And that not in a ſingle Act, or two, but in a long continued <hi>Serie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of a vaſt number of various kinds of moſt horrid and wicked deed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amounting to no leſs, (in the Senſe and Judgement of his old Father than that unpardonable Sin againſt the HOLY GHOST: So tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> GOD, it ſeems, has quite robb'd him of all his Intellectual Facultie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaving him nothing in their Room, but a <hi>Chimerical Vacuum,</hi> (<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe his own word) as a fit Receptacle for all ſorts of malign Spirits<g ref="char:punc">▪</g> For certainly no good Quality can lodge with exceſſive Folly an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Imprudence, if we may apply with a little Variation, that Saying <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Moraliſt.</p>
+            <epigraph>
+               <q>
+                  <hi>Nullum Numen adeſt, niſi ſit Prudentia.</hi> —</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174783:7"/>
+            <pb facs="tcp:174783:8"/>
+            <pb facs="tcp:174783:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
